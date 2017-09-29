@@ -1,9 +1,4 @@
 # SoftUni
 SoftUni homeworks
 
-Changed Readme in branch MAIN
-
-
-
-Made changes for the Branch excercise
-
+Changes from bash in Develop2 branch
